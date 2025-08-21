@@ -1,0 +1,122 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #f5f7fa;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+p {
+  text-align: center;
+  color: #555;
+  line-height: 1.5;
+  margin: 10px 0;
+}
+
+form {
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 25px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+label {
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+input,
+textarea {
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 15px;
+  transition: 0.3s ease;
+}
+
+input:focus,
+textarea:focus {
+  border-color: #1DA1F2; /* highlight color */
+  outline: none;
+  box-shadow: 0px 0px 6px rgba(29,161,242,0.4);
+}
+
+textarea {
+  min-height: 120px;
+  resize: vertical;
+}
+
+button {
+  background: #1DA1F2;
+  color: #fff;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+button:hover {
+  background: #0d8ddb;
+}
+
+.social-links {
+  margin: 20px 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.social-links a {
+  margin: 0 12px;
+  font-size: 30px;
+  display: inline-block;
+  transition: 0.3s ease;
+}
+
+/* Brand colors for icons */
+.facebook {
+  color: #1877F2;
+}
+.twitter {
+  color: #1DA1F2;
+}
+.instagram {
+  background: radial-gradient(circle at 30% 107%, 
+    #fdf497 0%, #fdf497 5%, 
+    #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.linkedin {
+  color: #0077B5;
+}
+
+.social-links a:hover {
+  transform: scale(1.2);
+}
+
+.last {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 20px;
+  font-weight: bold;
+  color: #444;
+  letter-spacing: 2px;
+}

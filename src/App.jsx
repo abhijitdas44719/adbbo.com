@@ -5,7 +5,7 @@ import './App.css'
 import Nav from './components/Nav'
 import Footer from './components/Footer'
 import Home from './components/Home'
-import Manage from './components/Manage'
+
 import About from './components/About'
 import Contact from './components/Contact'
 import BusManage from './components/BusManage'
@@ -19,7 +19,7 @@ function App() {
         <Nav/>
         <Routes>
           <Route path="/" element={<Home/>} />
-          <Route path="/manage" element={<Manage/>} />
+          
           <Route path="/about" element={<About/>} />
           <Route path="/contact" element={<Contact/>} />
           <Route path="/bus-manage" element={<BusManage/>} />
