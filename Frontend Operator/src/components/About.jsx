@@ -122,13 +122,6 @@ function About() {
                                 <p>Lead Developer</p>
                             </div>
                         </div>
-                        <div class="team-member">
-                            <img src="https://images.unsplash.com/photo-1614289371518-722f2615943d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" alt="Team Member" class="team-img" />
-                            <div class="team-info">
-                                <h3>Sugata Dutta and Abhijit Das</h3>
-                                <p>Product Manager</p>
-                            </div>
-                        </div>
                     </div>
                 </div>
 
