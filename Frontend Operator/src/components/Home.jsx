@@ -77,6 +77,7 @@ function Home() {
       <div className="welcome-banner">
         <h1>Welcome to ADIBUS (Indian) Bus Operations Management</h1>
         <p>Your complete interstate bus operation management solution</p>
+        <p>Feel free to check out our bus routes and other info's</p>
       </div>
 
       {/* Quick Stats */}
