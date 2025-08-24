@@ -17,8 +17,8 @@ function About() {
                         About Us
                     </div>
                     <div class="container c2">
-                        <p>We are a team of passionate developers dedicated to creating innovative solutions that make a difference. Our mission is to deliver high-quality software that meets the needs of our users and exceeds their expectations.</p>
-                        <p>With years of experience in the industry, we pride ourselves on our ability to adapt to new challenges and continuously improve our skills. We believe in the power of collaboration and strive to foster a positive and inclusive work environment.</p>
+                        <p>We are a team of Software developers who are tryingto develop a better connection in bus operating industry</p>
+                        <p>Some of us being new and some of us With years of experience in the industry, we pride ourselves on our ability to adapt to new challenges and continuously improve our skills. We believe in the power of collaboration and strive to foster a positive and inclusive work environment.</p>
                     </div>
                     <div class="container c3">
                         <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Our Team" />
@@ -104,28 +104,28 @@ function About() {
                         <div class="team-member">
                             <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" alt="Team Member" class="team-img" />
                             <div class="team-info">
-                                <h3>Michael Johnson</h3>
+                                <h3>Abhijit Das</h3>
                                 <p>CEO & Founder</p>
                             </div>
                         </div>
                         <div class="team-member">
                             <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" alt="Team Member" class="team-img" />
                             <div class="team-info">
-                                <h3>Sarah Williams</h3>
-                                <p>Chief Technology Officer</p>
+                                <h3>Sugata Dutta</h3>
+                                <p>CO-LEADER of the department</p>
                             </div>
                         </div>
                         <div class="team-member">
                             <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" alt="Team Member" class="team-img" />
                             <div class="team-info">
-                                <h3>David Chen</h3>
+                                <h3>Sugata Dutta and Abhijit Das</h3>
                                 <p>Lead Developer</p>
                             </div>
                         </div>
                         <div class="team-member">
                             <img src="https://images.unsplash.com/photo-1614289371518-722f2615943d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" alt="Team Member" class="team-img" />
                             <div class="team-info">
-                                <h3>Emily Rodriguez</h3>
+                                <h3>Sugata Dutta and Abhijit Das</h3>
                                 <p>Product Manager</p>
                             </div>
                         </div>
