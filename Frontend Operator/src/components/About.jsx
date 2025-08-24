@@ -7,7 +7,7 @@ function About() {
             <div class="hero-section">
                 <div class="hero-content">
                     <h1>Driving Innovation Forward</h1>
-                    <p>At Adibus, we're committed to creating solutions that shape the future</p>
+                    <p>At Adibus, we're committed to creating the perfect booking site for people that will revolutionize the future</p>
                 </div>
             </div>
 
