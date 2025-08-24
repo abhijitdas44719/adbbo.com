@@ -62,7 +62,7 @@ function About() {
                                         </div>
                                         <div class="details">
                                             <h3>Address</h3>
-                                            <p>123 Innovation Drive, Tech City</p>
+                                            <p>Saltlake, Kolkata ,INDIA</p>
                                         </div>
                                     </div>
                                 </div>
@@ -156,6 +156,7 @@ function About() {
                             <h3>Excellence</h3>
                             <p>We are committed to delivering the highest quality in everything we do.</p>
                         </div>
+                       <h3> With Our Work ,You are destined to get the best experience ever in this industry </h3> 
                     </div>
                 </div>
             </div>
