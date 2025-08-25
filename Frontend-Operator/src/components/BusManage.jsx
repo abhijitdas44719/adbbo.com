@@ -1,6 +1,8 @@
 import React, { useState } from 'react'
 import './BusManage.css'
 import { useBusContext } from '../context/BusContext'
+import axios from 'axios'
+import { useEffect } from 'react';
 
 function BusManage() {
   const { buses, setBuses } = useBusContext();
@@ -60,6 +62,21 @@ function BusManage() {
     ));
   };
 
+  useEffect(() => {
+    axios.get('/api/buses')
+      .then(response => {
+        const busesWithSeats = response.data.map(bus => ({
+          ...bus,
+          seats: Array(bus.capacity).fill({ status: 'available' }),
+          departureTime: new Date().toISOString().slice(0, 16),
+          stopBookingBefore: 30
+        }));
+        setBuses(busesWithSeats);
+      })
+      .catch(error => {
+        console.error('Error fetching buses:', error);
+      });
+  })
   const SeatManagementModal = ({ bus, onClose }) => {
     return (
       <div className="seat-modal">

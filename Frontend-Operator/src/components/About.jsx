@@ -102,7 +102,7 @@ function About() {
                     <h2 class="section-title">Our Leadership Team</h2>
                     <div class="team-grid">
                         <div class="team-member">
-                            <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" alt="Team Member" class="team-img" />
+                            <img src="Abhijit.jpeg" alt="Team Member" class="team-img" />
                             <div class="team-info">
                                 <h3>Abhijit Das</h3>
                                 <p>CEO & Founder</p>
