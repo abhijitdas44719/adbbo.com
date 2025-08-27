@@ -1,0 +1,9 @@
+@@ .. @@
+   "scripts": {
+     "dev": "vite",
++    "dev:server": "cd server && node server.js",
++    "dev:full": "concurrently \"npm run dev\" \"npm run dev:server\"",
+     "build": "vite build",
+     "lint": "eslint .",
+     "preview": "vite preview"
+   },
