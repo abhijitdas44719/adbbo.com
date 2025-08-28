@@ -6,7 +6,7 @@ export function BusProvider({ children }) {
   const [buses, setBuses] = useState([
     { 
       id: 1, 
-      number: 'KA-01-1234', 
+      number: 'KA-01-7500', 
       route: 'Bangalore-Chennai', 
       capacity: 40, 
       status: 'active',

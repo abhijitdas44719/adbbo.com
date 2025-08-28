@@ -143,7 +143,7 @@ nav ul li a:hover::after {
 /* footer.jsx */
 
 footer {
-  background-color: rgb(161, 161, 161);
+  background-color: rgb(134, 118, 118);
   color: white;
   font-family: 'Roboto', sans-serif;
   font-size: 1.2rem;
@@ -155,4 +155,13 @@ footer {
   bottom: 0;
   left: 0;
   padding: 0.5rem 1rem;
+}
+footer p {
+  margin: 0;
+  line-height: 40px;
+  font-size: 1rem;
+  font-weight: 1500;
+  color: black;
+   font-family: 'Roboto', sans-serif;
+
 }
