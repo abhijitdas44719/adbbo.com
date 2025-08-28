@@ -116,7 +116,7 @@ function About() {
                             </div>
                         </div>
                         <div class="team-member">
-                            <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" alt="Team Member" class="team-img" />
+                            <img src="20250828_232149.jpg" alt="Team Member" class="team-img" />
                             <div class="team-info">
                                 <h3>Sugata Dutta and Abhijit Das</h3>
                                 <p>Lead Developer</p>
