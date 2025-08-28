@@ -109,14 +109,14 @@ function About() {
                             </div>
                         </div>
                         <div class="team-member">
-                            <img src="IMG-20250815-WA0042.jpg" alt="Team Member" class="team-img" />
+                            <img src="Sugata.jpg" alt="Team Member" class="team-img" />
                             <div class="team-info">
                                 <h3>Sugata Dutta</h3>
                                 <p>CO-LEADER of the department</p>
                             </div>
                         </div>
                         <div class="team-member">
-                            <img src="20250828_232149.jpg" alt="Team Member" class="team-img" />
+                            <img src="AS.jpg" alt="Team Member" class="team-img" />
                             <div class="team-info">
                                 <h3>Sugata Dutta and Abhijit Das</h3>
                                 <p>Lead Developer</p>
