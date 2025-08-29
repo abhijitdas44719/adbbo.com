@@ -15,6 +15,7 @@ function Nav() {
             <li><Link to="/contact">Contact</Link></li>
             <li><Link to="/bus-manage">Buses</Link></li>
             <li><Link to="/price-manage">Fare</Link></li>
+            <li><Link to="/sponsor">Sponsor</Link></li>
         </ul>
       </nav>
     </div>

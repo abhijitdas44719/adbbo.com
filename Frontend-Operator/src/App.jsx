@@ -10,6 +10,7 @@ import About from './components/About'
 import Contact from './components/Contact'
 import BusManage from './components/BusManage'
 import PriceManage from './components/PriceManage'
+import Sponsor from './components/Sponsor'
 import { BusProvider } from './context/BusContext'
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
           <Route path="/contact" element={<Contact/>} />
           <Route path="/bus-manage" element={<BusManage/>} />
           <Route path="/price-manage" element={<PriceManage/>} />
+          <Route path="/sponsor" element={<Sponsor/>} />
         </Routes>
         <Footer/>
       </BrowserRouter>
