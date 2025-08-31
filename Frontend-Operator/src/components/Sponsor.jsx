@@ -33,6 +33,7 @@ function Sponsor() {
                     {/* bronze */}
                     <div class="tier bronze">
                         <h3>Bronze</h3>
+                        <p> 10 Companies are paying as of today</p>
                         <p>Get your logo featured on our website and app footer.</p>
                         <div class="price">₹10,000 / month</div>
                         <ul>
@@ -45,6 +46,7 @@ function Sponsor() {
                     {/* silver */}
                     <div class="tier silver">
                         <h3>Silver</h3>
+                        <p> 4 Companies are paying as of today</p>
                         <p>Feature your brand in app banners and booking emails.</p>
                         <div class="price">₹25,000 / month</div>
                         <ul>
@@ -58,6 +60,7 @@ function Sponsor() {
                     {/* gold */}
                     <div class="tier gold , best-offer">
                         <h3>Gold</h3>
+                       <p> 2 Companies are paying as of today</p> 
                         <p>Premium sponsorship with full visibility across platform.</p>
                         <div class="price">₹50,000 / month</div>
                         <ul>
