@@ -139,7 +139,7 @@
   font-weight:bold;
   transform:rotate(45deg);
   padding: 5px 50px;
-  box-shadow: 0 3px 6px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
   background:red;
   color:white;
   
