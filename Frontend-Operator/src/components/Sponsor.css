@@ -126,6 +126,24 @@
 #bronze-button{
     margin-top: 33px;
 }
+.best-offer {
+  overflow: hidden;
+  position: relative;
+}
+.best-offer:before {
+  content:"best offer";
+  position:absolute;
+  top:15px;
+  right:-40px;
+  font-size:14px;
+  font-weight:bold;
+  transform:rotate(45deg);
+  padding: 5px 50px;
+  box-shadow: 0 3px 6px;
+  background:red;
+  color:white;
+  
+}
 /* Contact Section */
 .contact {
   text-align: center;
