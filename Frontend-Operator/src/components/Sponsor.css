@@ -131,7 +131,7 @@
   position: relative;
 }
 .best-offer:before {
-  content:"best offer";
+  content:"Best Offer!!";
   position:absolute;
   top:15px;
   right:-40px;
