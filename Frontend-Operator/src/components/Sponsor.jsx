@@ -56,7 +56,7 @@ function Sponsor() {
                     </div>
 
                     {/* gold */}
-                    <div class="tier gold">
+                    <div class="tier gold , best-offer">
                         <h3>Gold</h3>
                         <p>Premium sponsorship with full visibility across platform.</p>
                         <div class="price">₹50,000 / month</div>
