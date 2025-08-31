@@ -70,6 +70,7 @@ function Sponsor() {
 
                 </div>
             </section>
+            <h2> More Sponsorship Offers will be Coming Soon!</h2>
 
             {/* contact section */}
             <section class="contact" id="contact">
